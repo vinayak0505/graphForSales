@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156339799768",
+    "firebase_url": "https://one17order.firebaseio.com",
+    "project_id": "one17order",
+    "storage_bucket": "one17order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156339799768:android:133b54f69e124f15d6f9ad",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156339799768-c0qf7u5sukkeej5n6dftm42sj6df4qv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgF_vqoJqPwa0r90LpIcWcuOh8bNqTWHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156339799768-c0qf7u5sukkeej5n6dftm42sj6df4qv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
